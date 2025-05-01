@@ -26,9 +26,6 @@ This unit demonstrates the implementation and application of a Hidden Markov Mod
   - Trains the HMM on the same dataset  
   - Runs the Viterbi algorithm on predefined test sentences and prints the results
 
-- **main.py**  
-  Example script showing basic usage of the HMM class with a small dataset.
-
 ## Dataset
 
 The training dataset consists of simple English sentences, each word tagged with its PoS:
